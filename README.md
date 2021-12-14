@@ -1,5 +1,5 @@
-# portifolio
-Portifolio @otaviodev
+# portfolio
+Portfolio @otaviodev
 
 # desenvolvimento
 o controle das tarefas serão feitos pelo GitHub
